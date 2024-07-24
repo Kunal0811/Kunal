@@ -1,2 +1,1 @@
 This is git repository
-this is 2nd
